@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: peachpuff;
+}
+.btn{
+    
+
+    background-color:blueviolet; 
+ 
+    border-radius:10px;
+    height: 60px;
+    width:130px;
+    font-size: 25px;
+}
+.btn:hover{
+    background-color: red;
+
+}
+.saad{
+    margin-right: 100px;
+    color:grey;
+    font-size:30px;
+}
+.ebtn{
+     
+
+    border-radius:10px;
+    height: 60px;
+    width:130px;
+    font-size: 25px;
+}
+.ebtn:hover{
+    background-color:greenyellow;
+    
+}
